@@ -2,6 +2,8 @@
 title: Memory Analyzer的使用记录
 tags: [MAT,Memory Analyzer]
 ---
+作为一个Java程序员，在系统出现内存泄漏等问题时，可以利用一些工具来分析dump文件，找到内存泄漏的原因，Memory Analyzer是一个很好的工具。
+<!-- more -->
 
 ## MAT使用记录
 
