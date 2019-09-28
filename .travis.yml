@@ -15,7 +15,7 @@ before_install:
     - export TZ='Asia/Shanghai' # 更改时区
 
 install:
-  - npm install
+  - npm ci
 
 before_script:
   - git submodule update --remote --merge
